@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', function() {
             // Verifica o caminho atual da página
             if (paginaAtual === '/solucao01-02.html') {
                 // Realiza a requisição fetch para o mailSender.php
-                fetch('../mailSender.php?pagina=solucao01-02')
+                fetch('../api/mailSender.php?pagina=solucao01-02')
                     .then(response => {
                         // Verifica se a resposta é bem-sucedida
                         if (!response.ok) {
