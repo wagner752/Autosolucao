@@ -4,8 +4,6 @@ body{
     background: url("../_img/capa.png");
     background-attachment: fixed;
     overflow-x: hidden;
-	background-repeat: repeat;
-	background-size: 150%;
 }
 
 html, body, .capa{
@@ -56,9 +54,8 @@ h2{
 	background-color: rgb(12,105,132);
 	color: rgb(255, 255, 255);
 	font-family: 'Montserrat', sans-serif;
-	font-size: 8pt;
-	width: 20px;
-	min-height: 100px;
+	width: 130px;
+	min-height: 111px;
 	text-align: center;
 	margin-bottom: 10px;
 	--bs-btn-hover-bg: rgb(83,173,182);
