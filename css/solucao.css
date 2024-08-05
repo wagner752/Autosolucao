@@ -6,8 +6,8 @@ body{
 }
 
 .imgSolucao{
-    max-width: 720px;
-    max-width: 720px;
+    max-width: 1080px;
+    
 }
 
 .container{
@@ -38,7 +38,7 @@ a{
 
 .btn{
     margin: 0 5px;
-    width: 25vh;
+    width: 15vh;
     border: 2px solid white !important;
 }
 
