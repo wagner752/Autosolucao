@@ -44,7 +44,7 @@ html, body, .capa{
 h2{
 	color: white;
 	text-align: center;
-	font-size: 30px;
+	font-size: 20px;
 	font-family: 'Montserrat', sans-serif;
 	
 }
@@ -54,8 +54,8 @@ h2{
 	background-color: rgb(12,105,132);
 	color: rgb(255, 255, 255);
 	font-family: 'Montserrat', sans-serif;
-	width: 130px;
-	min-height: 111px;
+	width: 90px;
+	min-height: 100px;
 	text-align: center;
 	margin-bottom: 10px;
 	--bs-btn-hover-bg: rgb(83,173,182);
