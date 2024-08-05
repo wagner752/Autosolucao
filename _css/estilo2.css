@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body{
+    background: url("../_img/capa.png");
+    background-attachment: fixed;
+    overflow-x: hidden;
+}
+
+html, body, .capa{
+	height: 100%;
+}
+
+.capa {
+	display: table;
+	width: 100%; 
+}
+
+.btn-custom{
+	background-color: rgb(137,211,64);
+	color: white;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.btn-custom:hover{
+	background-color: #181f25;
+}
+
+.texto-capa {
+	text-align: center;
+	color: white;
+	display: table-cell;
+	vertical-align: middle;
+}
