@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 body{
-    background: url("../_img/capa.png");
+    background: url("../img/capa.png");
     background-attachment: fixed;
     overflow-x: hidden;
 }
